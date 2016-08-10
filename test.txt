@@ -1,3 +1,7 @@
 add
 dev
+<<<<<<< HEAD
 master
+=======
+git fffffff
+>>>>>>> featurel
